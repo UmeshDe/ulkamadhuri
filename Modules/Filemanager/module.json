@@ -1,0 +1,17 @@
+{
+    "name": "Filemanager",
+    "alias": "filemanager",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Filemanager\\Providers\\FilemanagerServiceProvider",
+        "Modules\\Filemanager\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        
+    ],
+    "requires": []
+}

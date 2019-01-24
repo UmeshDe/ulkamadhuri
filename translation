@@ -1,0 +1,11 @@
+
+
+                                                                              
+  [Symfony\Component\Console\Exception\CommandNotFoundException]              
+  Command "module:publish-" is ambiguous.                                     
+  Did you mean one of these?                                                  
+      module:publish-config      Publish a module's config files to the a...  
+      module:publish-migration   Publish a module's migrations to the app...  
+      module:publish-translation Publish a module's translations to the a...  
+                                                                              
+
